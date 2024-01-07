@@ -6,7 +6,6 @@ interface Video
     public function addComment();
 }
 
-
 class DifficultImplementationForYoutube implements Video
 {
     public function play()
